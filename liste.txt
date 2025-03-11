@@ -1,0 +1,4 @@
+1. Çevrimdışı çalışma özelliği
+2. Karanlık mod desteği
+3. Kullanıcı dostu arayüz
+4. Çoklu dil desteği
