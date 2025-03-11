@@ -2,3 +2,4 @@
 2. Karanlık mod desteği
 3. Çevrimdışı çalışma özelliği
 4. Çoklu dil desteği
+5. Bildirim özelliği
