@@ -1,4 +1,0 @@
-1. Karanlık mod desteği
-2. Kullanıcı dostu arayüz
-3. Çoklu dil desteği
-4. Bildirim özelliği
